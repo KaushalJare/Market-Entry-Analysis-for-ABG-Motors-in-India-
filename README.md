@@ -7,7 +7,7 @@ Task: Analyze sample data from two major cities (one in India and one in Japan) 
 Data Preparation and Exploration
 Data Acquisition: Obtain the "Indian Dataset" and "Japanese Dataset" from ABG Motors.
 
-Data Cleaning:
+Data Cleaning: 
 Handle missing values (e.g., imputation or removal).
 Correct inconsistencies or errors in data.
 Normalize numerical features to a common scale (e.g., min-max scaling or standardization).
